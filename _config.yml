@@ -21,11 +21,11 @@
 title: Curtis J. Hu 
 email: curtisjhu@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello, I'm Curtis Hu. I'm an undergraduate at UC Berkeley doing Deep Learning on Particle Physics applications.
+  Hello, I'm Curtis Hu. I'm an undergraduate at UC Berkeley doing Deep Learning with Particle Physics applications.
 baseurl: ""
 url: "https://curtisjhu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-google_analytics: UA—XXXXXXXX-X
+google_analytics: GTM-PKF5TLFK
 
 # Build settings
 theme: minima
