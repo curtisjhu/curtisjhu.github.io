@@ -4,8 +4,5 @@ title: blog
 permalink: /blog/
 --- -->
 
+Some blog
 
-# Blog 
-
-
-# Video/Blog Channel
