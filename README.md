@@ -2,3 +2,7 @@
 
 https://curtisjhu.github.io/
 
+
+```
+jekyll serve
+```

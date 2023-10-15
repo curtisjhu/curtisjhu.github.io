@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Fluid Simulations with WebGL"
-date:   2023-10-10 15:50:02 -0700
+title:  "Normalizing Flows"
+date:   2023-10-10 15:50:02
 categories: applied maths, physics, graphics
 ---
 
