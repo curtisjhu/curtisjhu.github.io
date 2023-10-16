@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: page
 title: projects 
 permalink: /projects/
----
+--- -->
 
 ### <a href="https://funnyscar.com">funnyscar</a>
 [picture here]
@@ -26,6 +26,11 @@ A club I co-founded at UC Berkeley that explores the brain.
 <!-- * graduate student project
 * dissertion on something new -->
 
+### <a href="">bardcore.ai</a>
+A Gans network that generates BARD music
+
+### <a href="">project insight</a>
+A project to eradicate
 
 #### Pet projects
 <!-- Stuff a highschooler can make -->
