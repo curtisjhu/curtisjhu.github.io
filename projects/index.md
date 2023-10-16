@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: page
 title: projects 
 permalink: /projects/
---- -->
+---
 
 ### <a href="https://funnyscar.com">funnyscar</a>
 [picture here]
@@ -14,6 +14,18 @@ Content creation that explores topics such as ...
 ### <a href="">thebrainteam</a>
 
 A club I co-founded at UC Berkeley that explores the brain.
+
+
+<!-- Stuff very few people actually do. -->
+<!-- * cofound a company
+* discover something novel in science community
+* patent on something important
+* non profit -->
+
+<!-- Stuff a graduate student could do -->
+<!-- * graduate student project
+* dissertion on something new -->
+
 
 #### Pet projects
 <!-- Stuff a highschooler can make -->
