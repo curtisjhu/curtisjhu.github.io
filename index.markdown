@@ -20,8 +20,8 @@ Some pet project of mine include <a href="https://funnyscar.com/">content creati
 
 
 <!-- Hobbies, show that you're human and easy to get along and that they should reach out -->
-I've always loved to play <a href="https://instagram.com/curtisjhu">jazz guitar</a> (I love Pat Martino and Bob Dylan). I've liked to <a href="https://www.strava.com/athletes/curtis_hu">run long distances</a> since high school cross country. Like to <a href="https://www.goodreads.com/curtisjhu
-">reading books</a>, especially on camping trips.
+I have a blog analyzing Nobel Prize winning <a href="https://curtishu.medium.com">Bob Dylan songs</a>. I've liked to <a href="https://www.strava.com/athletes/curtis_hu">run long distances</a> since high school cross country. Love to <a href="https://www.goodreads.com/curtisjhu
+">read books</a> and occasionally taking <a href="https://flickr.com/people/curtisjhu">photos</a>.
 
 <a href="https://bucket.funnyscar.com/resumes/resume%20(8).pdf">resume</a>,
 <a href="https://github.com/curtisjhu">github</a>,
