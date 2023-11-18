@@ -4,11 +4,9 @@ title: publications
 permalink: /publications/
 --- -->
 
-#### Publications
+#### <a href="https://scholar.google.com/scholar?q=curtis+hu">Publications</a>
+Ordered by most cited:
 - lol
 
-#### Book
-- <a>Physics Problem of the Week Book</a>. At my time at Cal, I wrote problems for the Society of Physics Students' Problem of the Week. Here is the collection of these problems I've either come up with or (hehe) taken from classic textbooks.
-
-#### Patents
+#### <a href="https://patents.google.com/?inventor=Curtis+Hu">Patents</a>
 - lol
