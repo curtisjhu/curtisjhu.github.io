@@ -4,5 +4,5 @@ https://curtisjhu.github.io/
 
 
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
