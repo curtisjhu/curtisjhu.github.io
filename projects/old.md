@@ -1,0 +1,38 @@
+
+<!-- These didn't make the cut -->
+<!-- Quality just wasn't there -->
+
+<!-- ### <a href="">bardcore.ai</a>
+A Gans network that generates BARD music
+
+### <a href="">bluecampfire.com</a>
+An experimental way to connect people. -->
+
+<!-- ### <a href="">project insight</a>
+A project to eradicate -->
+
+### <a href="">thebrainteam</a>
+
+<img src="" alt="brainteam" />
+
+A club I co-founded at UC Berkeley that explores the brain.
+
+It makes me feel lonely when it seems that no one around me shares my passions (especially in high school). If only I could be surrounded by similarly passionate people...
+
+
+- <a href="">An unofficial paper about modern social structure</a> for <a href="https://dennisfeehan.org/">Professor Dennis M. Feehan</a>
+- <a href="">An unofficial paper about modern social </a> for <a href="https://dennisfeehan.org/">Tom Griffiths</a>
+
+- <a href="https://github.com/curtisjhu/mini-nn">mini-nn</a>. Small header library for very simple machine learning applications 
+- Template machine learning repositories for 
+	- My implementations of well known algorithms in <a href="https://github.com/curtisjhu/template-ml">computer vision</a>
+	- Look at the follow ups for 
+	<a href="https://github.com/curtisjhu/template-nlp">nlp</a>,
+	<a href="https://github.com/curtisjhu/template-gans">gans</a>,
+	<a href="https://github.com/curtisjhu/template-rl">rl</a>,
+	<a href="https://github.com/curtisjhu/template-audio">audio</a>,
+	<a href="https://github.com/curtisjhu/template-qml">quantum machine learning</a>,
+	<a href="https://github.com/curtisjhu/popular-models">hugging face</a>
+
+- <a href="https://github.com/curtisjhu/anim-ml">anim-ml</a>. Animation library for animating neural networks in 2D and 3D. 
+- <a href="">Share your story</a>. Creating online books 

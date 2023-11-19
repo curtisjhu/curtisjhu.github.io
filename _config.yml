@@ -37,6 +37,11 @@ rss: rss
 twitter_username: curtisjjhu
 github_username:  curtisjhu
 linkedin_username: curtisjhu
+header_pages:
+#  - publications/index.md
+#  - projects/index.md
+ - teaching.md
+#  - blog/index.md
 
 
 # Exclude from processing.
