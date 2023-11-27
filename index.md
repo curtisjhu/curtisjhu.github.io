@@ -23,7 +23,7 @@ Some pet project of mine include <a href="https://funnyscar.com/">content creati
 I have a side blog analyzing Nobel-Prize-winning <a href="https://curtishu.medium.com">Bob Dylan songs</a>. I've liked to <a href="https://www.strava.com/athletes/curtis_hu">run long distances</a> since high school cross country. I love to <a href="https://www.goodreads.com/curtisjhu
 ">read books</a> and occasionally taking <a href="https://flickr.com/people/curtisjhu">photos</a>.
 
-<a href="https://bucket.funnyscar.com/resumes/resume%20(8).pdf">resume</a>,
+<a href="https://bucket.funnyscar.com/resumes/resume-11-27.pdf">resume</a>,
 <a href="https://github.com/curtisjhu">github</a>,
 <a href="https://linkedin.com/in/curtisjhu">linkedin</a>,
 <a href="https://funnyscar.com">funnyscar</a>
