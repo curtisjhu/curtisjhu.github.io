@@ -8,9 +8,6 @@ A Gans network that generates BARD music
 ### <a href="">bluecampfire.com</a>
 An experimental way to connect people. -->
 
-<!-- ### <a href="">project insight</a>
-A project to eradicate -->
-
 ### <a href="">thebrainteam</a>
 
 <img src="" alt="brainteam" />
@@ -21,7 +18,7 @@ It makes me feel lonely when it seems that no one around me shares my passions (
 
 
 - <a href="">An unofficial paper about modern social structure</a> for <a href="https://dennisfeehan.org/">Professor Dennis M. Feehan</a>
-- <a href="">An unofficial paper about modern social </a> for <a href="https://dennisfeehan.org/">Tom Griffiths</a>
+- <a href="">An unofficial paper about cognitive science </a> for <a href="https://cocosci.princeton.edu/tom/index.php">Tom Griffiths</a>
 
 - <a href="https://github.com/curtisjhu/mini-nn">mini-nn</a>. Small header library for very simple machine learning applications 
 - Template machine learning repositories for 
@@ -35,4 +32,3 @@ It makes me feel lonely when it seems that no one around me shares my passions (
 	<a href="https://github.com/curtisjhu/popular-models">hugging face</a>
 
 - <a href="https://github.com/curtisjhu/anim-ml">anim-ml</a>. Animation library for animating neural networks in 2D and 3D. 
-- <a href="">Share your story</a>. Creating online books 
