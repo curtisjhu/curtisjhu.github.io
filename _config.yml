@@ -10,7 +10,7 @@ description: >-
 baseurl: ""
 url: "https://curtisjhu.github.io"
 
-google_analytics: G-7DX708EL7B
+google_analytics: G-BSXSV4N1YH
 
 # Build settings
 theme: minima
