@@ -10,7 +10,7 @@ description: >-
 baseurl: ""
 url: "https://curtisjhu.github.io"
 
-google_analytics: GTM-PKF5TLFK
+google_analytics: G-7DX708EL7B
 
 # Build settings
 theme: minima
@@ -43,6 +43,7 @@ sass:
   quiet_deps: true
 
 favicon: favicon.png
+logo: favicon.png
 
 
 # exclude:
