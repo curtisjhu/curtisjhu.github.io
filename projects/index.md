@@ -42,7 +42,7 @@ A Gans network that generates BARD music -->
 * dissertion on something new -->
 
 
-#### Pet projects
+#### <a href="https://funnyscar.com/projects">Pet projects</a>
 <!-- Stuff a highschooler can make -->
 
 <!-- - <a href="https://github.com/curtisjhu/snn.js">snn.js</a>. Simulations of neural activity in the browser
@@ -63,8 +63,3 @@ A Gans network that generates BARD music -->
 - <a href="https://github.com/curtisjhu/tweakpane-latex">tweakpane-latex</a>. An extension plugin for tweakpane I use for my <a href="https://funnyscar.com/sketches">sketches on my website</a>
 - <a href="https://github.com/curtisjhu/My-Story-Jekyll-Theme">My-Story</a> Share your stories and publish them as beautiful one-page website/book.
 - <a href="https://github.com/curtisjhu/p3man">p3man</a> A published python package on PyPI. p3man is a very simple password manager.
-
-#### Pet Writings
-<!-- - <a href="">An unofficial paper about modern social structure</a> for <a href="https://dennisfeehan.org/">Professor Dennis M. Feehan</a> -->
-- <a href="https://www.overleaf.com/read/dcvrjgrvjbnd#c7f2ce">Problem of the week</a> for <a href="https://sps.berkeley.edu/">Society of Physics Students</a>
-- <a href="https://www.overleaf.com/read/tqpwchpnmmfz#1fbedc">My problems</a> for <a href="https://sps.berkeley.edu/events/int_bee">UC Berkeley's Integral Bee</a>

@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 #### Teaching Roles
-* Teaching Assistant / Academic Intern for Computational Structures in Data Science (CS88C):
+* Academic Intern for Computational Structures in Data Science (CS88C):
 	- <a href="https://bucket.funnyscar.com/coursework/Algorithms.pdf">Some advanced datastructures cheatsheet</a>
 	- <a href="https://graphics.funnyscar.com/k-means/">k-means algorithm animation (for the Maps project)</a>
 
