@@ -1,6 +1,6 @@
 # Curtis Hu Academic Website
 
-https://curtisjhu.github.io/
+https://curtisjhu.com, https://curtisjhu.github.io/
 
 
 ```
