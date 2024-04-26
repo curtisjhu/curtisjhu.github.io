@@ -13,6 +13,9 @@ Miscellaneous work over the years.
 **Paid Work**
 * Served as Network Engineering Team Lead for the organizing and maintaining the University's network infrastructure.
 
+**Course Work**
+* eecs16a
+
 **Outreach**
 * Demoing Innovation Day 
 
