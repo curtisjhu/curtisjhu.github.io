@@ -2,6 +2,8 @@
 layout: page
 title: publications 
 permalink: /publications/
+nav_include: yes
+nav_order: 0
 ---
 
 #### <a href="https://scholar.google.com/scholar?q=curtis+hu">Publications</a>

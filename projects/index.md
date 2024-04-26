@@ -2,6 +2,7 @@
 layout: page
 title: projects 
 permalink: /projects/
+nav_order: 1
 ---
 
 <!-- ### <a href="">thebrainteam</a>
@@ -27,6 +28,10 @@ Visualizing the topological mappings of the brain, riemann surfaces, or quantum 
 
 Content creation adventures that explores mathematical topics through a different lens.
 
+
+<!-- ### <a href="">bardcore.ai</a>
+A Gans network that generates BARD music -->
+
 <!-- ### <a href="">bardcore.ai</a>
 A Gans network that generates BARD music -->
 
@@ -42,7 +47,14 @@ A Gans network that generates BARD music -->
 * dissertion on something new -->
 
 
-#### <a href="https://funnyscar.com/projects">Pet projects</a>
+#### <a href="https://funnyscar.com/projects">More projects here</a>
+
+### Research Project
+
+Hello
+
+
+### <a href="https://funnyscar.com/projects">Pet projects</a>
 <!-- Stuff a highschooler can make -->
 
 <!-- - <a href="https://github.com/curtisjhu/snn.js">snn.js</a>. Simulations of neural activity in the browser
@@ -62,4 +74,4 @@ A Gans network that generates BARD music -->
 - <a href="https://chrome.google.com/webstore/detail/extension-player-for-spot/dnngcfpcnpmakpjeaeapphjihhbenilk">Extension Player for Spotify</a>. A Chrome extension for using Spotify with 4000+ users
 - <a href="https://github.com/curtisjhu/tweakpane-latex">tweakpane-latex</a>. An extension plugin for tweakpane I use for my <a href="https://funnyscar.com/sketches">sketches on my website</a>
 - <a href="https://github.com/curtisjhu/My-Story-Jekyll-Theme">My-Story</a> Share your stories and publish them as beautiful one-page website/book.
-- <a href="https://github.com/curtisjhu/p3man">p3man</a> A published python package on PyPI. p3man is a very simple password manager.
+<!-- - <a href="https://github.com/curtisjhu/p3man">p3man</a> A published python package on PyPI. p3man is a very simple password manager. -->

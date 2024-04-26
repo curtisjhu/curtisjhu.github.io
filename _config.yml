@@ -35,10 +35,10 @@ twitter:
 header_pages:
 #  - publications/index.md
  - projects/index.md
-#  - teaching/teaching.md
+ - writings/index.md
  - archive/archive.md
+#  - teaching/teaching.md
 #  - talks.md
-#  - blog/index.md
 
 sass:
   quiet_deps: true
