@@ -11,25 +11,40 @@ Miscellaneous work over the years.
 #### Undergraduate years
 
 **Paid Work**
-* Served as Network Engineering Team Lead for the organizing and maintaining the University's network infrastructure.
+* As a part-time job, I worked as Network Engineering Team Lead for the organizing and maintaining the University's network infrastructure.
+	- Helped organize resume workshops
+	- Training
+	- Leading what to do in the field.	
+
 
 **Course Work**
-* eecs16a
+* <a>Relativity, Optics, Modern Physics</a>
+* <a>Mathematical Physics</a>
+* <a>Intro to Artificial Intelligence</a>
+* <a>Computer Architecture</a>
+* <a>Electroodynamics</a>
+* <a href="https://bucket.funnyscar.com/coursework/7b_crib.pdf">Electromagnetism & Thermodynamics</a>
+* <a href="https://bucket.funnyscar.com/coursework/Algorithms.pdf">Datastructures & Algorithms</a>
+* <a href="https://bucket.funnyscar.com/coursework/Mathematical_Networks.pdf">Mathematical Networks</a>
+* <a href="https://bucket.funnyscar.com/coursework/cs70_crib.pdf">Discrete Mathematics</a>
+* <a href="https://bucket.funnyscar.com/coursework/eecs16a.pdf">Electronics and Circuits I</a>
+* <a href="https://bucket.funnyscar.com/coursework/Recipe__Circuit_Analysis.pdf">Recipe for Circuit Analysis</a>
+* <a href="https://bucket.funnyscar.com/coursework/Recipe__Equivalent_Circuits.pdf">Recipe for Equivalent Circuits</a>
 
 **Outreach**
-* Demoing Innovation Day 
+* Temple Run AI demo at Upper Sproul, Berkeley
 
-<a href="https://graphics.funnyscar.com/riemann-surfaces/">
-	<img src="https://graphics.funnyscar.com/riemann-surfaces/riemann-surfaces.png" alt="funnyscar" width="200"/>
-</a>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/d1veRAj5RFY?si=ueAw231mwlwSQ-5H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * Elementary school outreach (<a href="https://crscience.org/outreach/basis/">BASIS Outreach Society of Physics Students</a>)
 
 **Light Teaching**
 * Academic Intern for <a href="https://c88c.org/">Computational Structures in Data Science (CS88C)</a>:
+	- Teaching and guiding student during LAB and Office Hours
 	- <a href="https://bucket.funnyscar.com/coursework/Algorithms.pdf">Some advanced datastructures cheatsheet</a>
 	- <a href="https://graphics.funnyscar.com/k-means/">k-means algorithm animation (for the Maps project)</a>
 
-*  <a href="https://youtu.be/2JSmKgIf9do">Quantum Algorithms: Bernstein-Vazirani "Mini-Lecture"</a> for <a href="https://berkeleyphysicsdrp.wixsite.com/physicsberkeleydrp">Berkeley Physics Directed Reading Program</a>
+* A mini-lecture on <a href="https://youtu.be/2JSmKgIf9do">Quantum Algorithms: Bernstein-Vazirani</a> for <a href="https://berkeleyphysicsdrp.wixsite.com/physicsberkeleydrp">Berkeley Physics Directed Reading Program</a>
 	- Our entire lecture is written here <a href="https://funnyscar.com/writings/bernstein-vazirani">Bernstein-Vazirani Algorithm</a>.
 
 * Self-designed "Basic Mathematical Finance Course" for <a href="https://berkeley.learningu.org/">Splash@Berkeley</a> with co-teacher <a href="https://www.linkedin.com/in/vedant-m-jhawar">Vedant Jhawar</a>
