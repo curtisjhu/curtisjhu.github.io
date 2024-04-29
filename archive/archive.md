@@ -12,17 +12,27 @@ Miscellaneous work over the years.
 
 **Paid Work**
 * As a part-time job, I worked as Network Engineering Team Lead for the organizing and maintaining the University's network infrastructure.
-	- Helped organize resume workshops
-	- Training
-	- Leading what to do in the field.	
+	- Manage, facilitate projects under the underlying goals (with the help of an awesome team)
+	- Training and teaching new hires
+	- Leading and guiding what to do in the field with handling customers, etc.
+	- Organize team meetings, resume workshops, technical workshops, social events, etc.
+	- Meetings with campus network engineers, directors, facilitators about the overall goals.
 
 
 **Course Work**
-* <a>Relativity, Optics, Modern Physics</a>
-* <a>Mathematical Physics</a>
-* <a>Intro to Artificial Intelligence</a>
-* <a>Computer Architecture</a>
-* <a>Electroodynamics</a>
+
+<!-- * <a href="">Demography: Social Networks</a>
+* <a href="">Computer Graphics</a> -->
+
+<!-- * <a href="">Computer Vision</a>
+* <a href="">Machine Learning</a>
+* <a href="">Physics in Real World Applications</a> -->
+
+* <a href="">Intro to Artificial Intelligence</a>
+* <a href="">Computer Architecture</a>
+* <a href="">Electrodynamics</a>
+* <a href="">Mathematical Physics</a>
+* <a href="">Relativity, Optics, Modern Physics</a>
 * <a href="https://bucket.funnyscar.com/coursework/7b_crib.pdf">Electromagnetism & Thermodynamics</a>
 * <a href="https://bucket.funnyscar.com/coursework/Algorithms.pdf">Datastructures & Algorithms</a>
 * <a href="https://bucket.funnyscar.com/coursework/Mathematical_Networks.pdf">Mathematical Networks</a>

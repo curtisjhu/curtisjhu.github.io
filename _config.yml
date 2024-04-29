@@ -33,7 +33,7 @@ twitter:
   username: curtisjjhu
 
 header_pages:
-#  - publications/index.md
+ - publications/index.md
  - projects/index.md
  - writings/index.md
  - archive/archive.md
