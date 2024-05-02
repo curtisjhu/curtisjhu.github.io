@@ -8,13 +8,11 @@ A Gans network that generates BARD music
 ### <a href="">bluecampfire.com</a>
 An experimental way to connect people. -->
 
-### <a href="">thebrainteam</a>
+### <a href="">invent@berkeley</a>
 
-<img src="" alt="brainteam" />
+<img src="" alt="invent@berkeley" />
 
 A club I co-founded at UC Berkeley that explores the brain.
-
-It makes me feel lonely when it seems that no one around me shares my passions (especially in high school). If only I could be surrounded by similarly passionate people...
 
 
 - <a href="">An unofficial paper about modern social structure</a> for <a href="https://dennisfeehan.org/">Professor Dennis M. Feehan</a>

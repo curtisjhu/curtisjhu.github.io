@@ -10,13 +10,22 @@ Miscellaneous work over the years.
 
 #### Undergraduate years
 
-**Paid Work**
+**Work**
 * As a part-time job, I worked as Network Engineering Team Lead for the organizing and maintaining the University's network infrastructure.
 	- Manage, facilitate projects under the underlying goals (with the help of an awesome team)
 	- Training and teaching new hires
 	- Leading and guiding what to do in the field with handling customers, etc.
 	- Organize team meetings, resume workshops, technical workshops, social events, etc.
 	- Meetings with campus network engineers, directors, facilitators about the overall goals.
+
+* Lab work
+	- Presented our research [Deep learning in High Energy Physics](https://bucket.funnyscar.com/work/publications/bpurs-poster-2024.pdf)
+
+	<a href="https://bucket.funnyscar.com/work/publications/bpurs-presentation.JPG/">
+		<img src="https://bucket.funnyscar.com/work/publications/bpurs-presentation.JPG" alt="funnyscar" width="400"/>
+	</a>
+	<p>Photo credits go to the BPURS program</p>
+	
 
 
 **Course Work**
@@ -41,13 +50,6 @@ Miscellaneous work over the years.
 * <a href="https://bucket.funnyscar.com/coursework/Recipe__Circuit_Analysis.pdf">Recipe for Circuit Analysis</a>
 * <a href="https://bucket.funnyscar.com/coursework/Recipe__Equivalent_Circuits.pdf">Recipe for Equivalent Circuits</a>
 
-**Outreach**
-* Temple Run AI demo at Upper Sproul, Berkeley
-
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/d1veRAj5RFY?si=ueAw231mwlwSQ-5H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-* Elementary school outreach (<a href="https://crscience.org/outreach/basis/">BASIS Outreach Society of Physics Students</a>)
-
 **Light Teaching**
 * Academic Intern for <a href="https://c88c.org/">Computational Structures in Data Science (CS88C)</a>:
 	- Teaching and guiding student during LAB and Office Hours
@@ -61,3 +63,10 @@ Miscellaneous work over the years.
 	- Animations: <a href="https://graphics.funnyscar.com/brownian-stocks">Brownian Motion in Stocks</a>, <a href="https://graphics.funnyscar.com/clt/">Central Limit Theorem</a>, <a href="https://graphics.funnyscar.com/points">Probability distribution</a>, and <a href="https://graphics.funnyscar.com/exponential-growth">Exponential growth</a>.
 	- <a href="https://bucket.funnyscar.com/work/Mathematical-Finance.pptx">Slides</a>
 
+**Outreach**
+* Temple Run AI demo at Upper Sproul, Berkeley
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/d1veRAj5RFY?si=ueAw231mwlwSQ-5H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+* Elementary school outreach (<a href="https://crscience.org/outreach/basis/">BASIS Outreach Society of Physics Students</a>)
+	- Went a few times to teach elementary schools about basic circuits. 
