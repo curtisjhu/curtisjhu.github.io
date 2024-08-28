@@ -28,3 +28,5 @@ I've liked to <a href="https://www.athlinks.com/athletes/540536124/">run long di
 <a href="https://github.com/curtisjhu">github</a>,
 <a href="https://linkedin.com/in/curtisjhu">linkedin</a>,
 <a href="https://funnyscar.com">funnyscar</a>
+
+Last updated 8/25/2024
