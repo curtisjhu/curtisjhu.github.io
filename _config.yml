@@ -6,7 +6,7 @@ title: Curtis J. Hu
 email: curtisjhu@berkeley.edu
 tagline: My academic website
 description: >- 
-  Hello, I'm Curtis Hu. I'm an undergraduate at UC Berkeley doing Deep Learning with Particle Physics applications.
+  Hello, I'm Curtis Hu. I'm an undergraduate at UC Berkeley studying Physics and CS.
 baseurl: ""
 url: "https://curtisjhu.github.io"
 
@@ -22,7 +22,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-rss: rss
+# rss: rss
 twitter_username: curtisjjhu
 github_username:  curtisjhu
 linkedin_username: curtisjhu
@@ -33,7 +33,7 @@ twitter:
   username: curtisjjhu
 
 header_pages:
- - publications/index.md
+#  - publications/index.md
  - projects/index.md
  - writings/index.md
  - archive/archive.md

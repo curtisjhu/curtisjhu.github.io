@@ -21,7 +21,7 @@ Miscellaneous work over the years.
 * Lab work
 	- Presented our research [Deep learning in High Energy Physics](https://bucket.funnyscar.com/work/publications/bpurs-poster-2024.pdf)
 
-	<a href="https://bucket.funnyscar.com/work/publications/bpurs-presentation.JPG/">
+	<a href="https://bucket.funnyscar.com/work/publications/bpurs-presentation.JPG">
 		<img src="https://bucket.funnyscar.com/work/publications/bpurs-presentation.JPG" alt="funnyscar" width="400"/>
 	</a>
 	<p>Photo credits go to the BPURS program</p>
@@ -50,7 +50,8 @@ Miscellaneous work over the years.
 * <a href="https://bucket.funnyscar.com/coursework/Recipe__Circuit_Analysis.pdf">Recipe for Circuit Analysis</a>
 * <a href="https://bucket.funnyscar.com/coursework/Recipe__Equivalent_Circuits.pdf">Recipe for Equivalent Circuits</a>
 
-**Light Teaching**
+**Teaching**
+* Course Staff Tutor <a>Intro to Artificial Intelligence (CS188)</a>
 * Academic Intern for <a href="https://c88c.org/">Computational Structures in Data Science (CS88C)</a>:
 	- Teaching and guiding student during LAB and Office Hours
 	- <a href="https://bucket.funnyscar.com/coursework/Algorithms.pdf">Some advanced datastructures cheatsheet</a>
@@ -65,8 +66,11 @@ Miscellaneous work over the years.
 
 **Outreach**
 * Temple Run AI demo at Upper Sproul, Berkeley
-
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/d1veRAj5RFY?si=ueAw231mwlwSQ-5H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 * Elementary school outreach (<a href="https://crscience.org/outreach/basis/">BASIS Outreach Society of Physics Students</a>)
 	- Went a few times to teach elementary schools about basic circuits. 
+
+**Pet Writings**
+- <a href="https://bucket.funnyscar.com/work/writings/Problem_of_the_Week.pdf">Problem of the week</a> for <a href="https://sps.berkeley.edu/">Society of Physics Students</a>. Weekly puzzles shared across the physics department.
+- <a href="https://bucket.funnyscar.com/work/writings/Problems_for_Integration_Bee.pdf">My problems</a> for <a href="https://sps.berkeley.edu/events/int_bee">UC Berkeley's Integral Bee</a>, a competition for solving integrals hosted by the school.

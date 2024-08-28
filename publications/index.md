@@ -8,4 +8,3 @@ nav_order: 0
 
 #### <a href="https://patents.google.com/?inventor=Curtis+Hu">Patents</a>
 - Bone Conduction (Pending)
-- Live audio switcher (Pending)
