@@ -24,7 +24,7 @@ A pet project of mine is <a href="https://funnyscar.com/">creating fun little co
 I've liked to <a href="https://www.athlinks.com/athletes/540536124/">run long distances</a> since high school cross country. I love to <a href="https://www.goodreads.com/curtisjhu
 ">read books</a> and play <a href="https://instagram.com/curtisjhu">Dylan songs</a>.
 
-<a href="https://bucket.funnyscar.com/resumes/resume-5-12-2024.pdf">resume</a>,
+<a href="https://bucket.funnyscar.com/resumes/resume-sept-2024.pdf">resume</a>,
 <a href="https://github.com/curtisjhu">github</a>,
 <a href="https://linkedin.com/in/curtisjhu">linkedin</a>,
 <a href="https://funnyscar.com">funnyscar</a>
