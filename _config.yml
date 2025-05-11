@@ -4,7 +4,7 @@
 
 title: Curtis J. Hu 
 email: curtisjhu@berkeley.edu
-tagline: My academic website
+tagline: Personal Website 
 description: >- 
   Hello, I'm Curtis Hu. I'm an undergraduate at UC Berkeley studying Physics and CS.
 baseurl: ""
@@ -36,7 +36,7 @@ header_pages:
 #  - publications/index.md
  - projects/index.md
  - writings/index.md
- - archive/archive.md
+#  - archive/archive.md
 #  - teaching/teaching.md
 #  - talks.md
 
