@@ -1,4 +1,4 @@
-# Curtis Hu Academic Website
+# Curtis Hu Website
 
 https://curtisjhu.com, https://curtisjhu.github.io/
 
