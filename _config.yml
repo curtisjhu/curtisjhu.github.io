@@ -4,9 +4,12 @@
 
 title: Curtis J. Hu 
 email: curtisjhu@berkeley.edu
-tagline: Personal Website 
+tagline: Personal Website of Curtis J. Hu 
 description: >- 
-  Hello, I'm Curtis Hu. I'm an undergraduate at UC Berkeley studying Physics and CS.
+  Hello, I'm Curtis Hu. I'm a Physics/CS student at UC Berkeley.
+  I like curiosity, wormhole learning sprees.
+  I like to build and tinker.
+  I like the edge of possible and human-centric technology. 
 baseurl: ""
 url: "https://curtisjhu.github.io"
 
@@ -23,7 +26,7 @@ plugins:
   - jekyll-sitemap
 
 # rss: rss
-twitter_username: curtisjjhu
+# twitter_username: curtisjjhu
 github_username:  curtisjhu
 linkedin_username: curtisjhu
 youtube_username: funnyscar
