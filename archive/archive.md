@@ -37,7 +37,7 @@ Miscellaneous work over the years.
 * <a href="">Machine Learning</a>
 * <a href="">Physics in Real World Applications</a> -->
 
-* <a href="">Intro to Artificial Intelligence</a>
+<!-- * <a href="">Intro to Artificial Intelligence</a>
 * <a href="">Computer Architecture</a>
 * <a href="">Electrodynamics</a>
 * <a href="">Mathematical Physics</a>
@@ -48,7 +48,7 @@ Miscellaneous work over the years.
 * <a href="https://bucket.funnyscar.com/coursework/cs70_crib.pdf">Discrete Mathematics</a>
 * <a href="https://bucket.funnyscar.com/coursework/eecs16a.pdf">Electronics and Circuits I</a>
 * <a href="https://bucket.funnyscar.com/coursework/Recipe__Circuit_Analysis.pdf">Recipe for Circuit Analysis</a>
-* <a href="https://bucket.funnyscar.com/coursework/Recipe__Equivalent_Circuits.pdf">Recipe for Equivalent Circuits</a>
+* <a href="https://bucket.funnyscar.com/coursework/Recipe__Equivalent_Circuits.pdf">Recipe for Equivalent Circuits</a> -->
 
 **Teaching**
 * Course Staff Tutor <a>Intro to Artificial Intelligence (CS188)</a>
