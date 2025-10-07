@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<a href="/photos" style="cursor: default;">
-<img src="assets/img/oct_2025.png" alt="drawing" width="200" align="left" style="margin: 0 30px 20px 0"/>
-</a>
+<img src="assets/img/oct_2025_3.png" alt="drawing" width="200" align="left" style="margin: 0 30px 20px 0"/>
 
 Here are some failing attempts to categorize myself. I'm a Physics/CS student at <a href="https://physics.berkeley.edu/">University of California, Berkeley</a>. Hoping to work at the frontier of technology.
 
