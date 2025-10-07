@@ -20,6 +20,8 @@ Visualizing the topological mappings of the brain, riemann surfaces, or quantum 
 
 Content creation adventures that explores mathematical topics through a different lens.
 
+### <a href="https://huroapp.org">Huro</a>
+Share audio tracks with your friends. Collaborate. Make music together.
 
 
 #### <a href="https://funnyscar.com/projects">More projects here</a>
@@ -29,6 +31,8 @@ Content creation adventures that explores mathematical topics through a differen
 ### <a href="https://funnyscar.com/projects">Pet projects</a>
 <!-- Stuff a highschooler can make -->
 
+<!-- - <a>minsta</a> -->
+<!-- - hugusoo -->
 
 - <a href="https://board.funnyscar.com">board.funnyscar.com</a>. Sketch, collaborate, brainstorm on an online whiteboard.
 - <a href="https://chrome.google.com/webstore/detail/extension-player-for-spot/dnngcfpcnpmakpjeaeapphjihhbenilk">Extension Player for Spotify</a>. A Chrome extension for using Spotify with 6000+ users
