@@ -4,11 +4,11 @@ layout: default
 
 <img src="assets/img/oct_2025_4.png" alt="drawing" width="200" align="left" style="margin: 0 30px 20px 0"/>
 
-Here are some failing attempts to categorize myself. I'm a Physics/CS student at <a href="https://physics.berkeley.edu/">University of California, Berkeley</a>. Hoping to work at the frontier of technology.
+Here are some meager attempts to categorize myself, though I prefer the lack of definition. I'm a Physics/CS student at <a href="https://physics.berkeley.edu/">University of California, Berkeley</a>. Hoping to work at the frontier of technology.
 
 This past summer, I've gotten to chance to explore the world of quantitative finance at <a href="https://www.tanius.com/">Tanius Technology LLC</a>. Specifically, I wrote data analytics over TCP packet traffic in a large C++ codebase. Additionally, I wrote a some strategies taking use of funding rate arbitrage and the autocorrelation of perpetuals across exchanges.
 
-The previous summer, I had the chance to work directly under the direct mentorship of <a href="https://www.linkedin.com/in/branson-stephens-19b75855/">Dr. Branson Stephens</a> and <a href="http://militzer.berkeley.edu/~driver/">Dr. Kevin Driver</a> on experimenting with <a href="https://bucket.funnyscar.com/work/publications/llnl-poster-2024.pdf">hydrocode boundary conditions</a> for <a href="https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition">fusion ignition</a> experiments at <a href="https://www.llnl.gov/">Lawerence Livermore National Laboratory. 
+The previous summer, I had the chance to work directly under the direct mentorship of <a href="https://www.linkedin.com/in/branson-stephens-19b75855/">Dr. Branson Stephens</a> and <a href="http://militzer.berkeley.edu/~driver/">Dr. Kevin Driver</a> on experimenting with <a href="https://bucket.funnyscar.com/work/publications/llnl-poster-2024.pdf">hydrocode boundary conditions</a> for <a href="https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition">fusion ignition</a> experiments at <a href="https://www.llnl.gov/">Lawrence Livermore National Laboratory. 
 
 <!-- Show off some work -->
 
