@@ -20,8 +20,8 @@ Visualizing the topological mappings of the brain, riemann surfaces, or quantum 
 
 Content creation adventures that explores mathematical topics through a different lens.
 
-### <a href="https://huroapp.org">Huro</a>
-Share audio tracks with your friends. Collaborate. Make music together.
+<!-- ### <a href="https://huroapp.org">Huro</a>
+Share audio tracks with your friends. Collaborate. Make music together. -->
 
 
 #### <a href="https://funnyscar.com/projects">More projects here</a>
