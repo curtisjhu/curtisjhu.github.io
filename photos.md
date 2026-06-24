@@ -16,6 +16,8 @@ layout: default
 ### Old Headshots
 > Curtis Hu
 
+<img src="assets/img/jun_2026.jpeg" alt="drawing" width="200" align="left" style="margin: 0 30px 20px 0"/>
+<img src="assets/img/oct_2025_4.png" alt="drawing" width="200" align="left" style="margin: 0 30px 20px 0"/>
 <img src="assets/img/oct_2025.png" alt="headshots" width="300">
 <img src="assets/img/profile.jpeg" alt="headshots" width="300">
 <img src="assets/img/square_profile.JPG" alt="headshots" width="300">
