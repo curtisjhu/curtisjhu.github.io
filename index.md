@@ -5,7 +5,7 @@ layout: default
 
 <img src="assets/img/jun_2026.jpeg" alt="drawing" width="200" align="left" style="margin: 0 30px 20px 0"/>
 
-Hey I'm Curtis. I'm currently working for the United States Treasury building a modern infrastructure. 
+Hey I'm Curtis. I'm currently working for the United States Treasury building a modern tech infrastructure. 
 
 I studied Physics/CS at <a href="https://physics.berkeley.edu/">University of California, Berkeley</a>
 
@@ -30,4 +30,4 @@ My long-term, consistent activities to decompress are <a href="https://www.strav
 <a href="https://linkedin.com/in/curtisjhu" style="color: navy;">linkedin</a> • 
 <a href="https://funnyscar.com" style="color: navy;">funnyscar</a>
 
-Last updated June 2026
+Last updated May 2026
