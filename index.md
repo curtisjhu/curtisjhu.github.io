@@ -23,6 +23,11 @@ I've also have the opportunity to teach different courses such as <a href="https
 <!-- Hobbies, show that you're human and easy to get along and that they should reach out -->
 My long-term, consistent activities to decompress are <a href="https://www.strava.com/athletes/46936459">running</a> and fiddling with the <a href="https://instagram.com/curtisjhu">guitar</a>. Been a moderately consistent <a href="https://www.goodreads.com/curtisjhu">reader</a>.
 
+...
+
+Would like to thank all the fellow academics for this template. Internet always overclocks my simpleton farmer's brain.
+
+
 
 <hr style="margin: 40px 0;">
 <a href="https://bucket.funnyscar.com/resumes/resume-may-2026.pdf" style="color: navy;">resume</a> • 
