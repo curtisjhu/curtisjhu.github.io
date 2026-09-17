@@ -35,9 +35,9 @@ twitter:
   username: curtisjjhu
 
 header_pages:
- - papers/index.md
  - projects/index.md
- - writings/index.md
+#  - papers/index.md
+#  - writings/index.md
 #  - archive/archive.md
 #  - teaching/teaching.md
 #  - talks.md
