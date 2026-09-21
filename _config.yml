@@ -36,8 +36,8 @@ twitter:
 
 header_pages:
  - projects/index.md
+ - writings/index.md
 #  - papers/index.md
-#  - writings/index.md
 #  - archive/archive.md
 #  - teaching/teaching.md
 #  - talks.md
